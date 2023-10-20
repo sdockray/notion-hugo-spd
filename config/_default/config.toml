@@ -1,4 +1,4 @@
 baseURL = "https://sdockray.github.io/notion-hugo-spd/"
 languageCode = "en-us"
 title = "Sean Dockray"
-theme = "ananke"
+theme = "DoIt"
